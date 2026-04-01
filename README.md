@@ -31,7 +31,7 @@ This project is built around the following main components:
 | **C12880MA Spectrometer** | Spectral Data Acquisition | Analog/Digital (SPI-like) |
 | **BME680 Environmental Sensor** | T/P/H/Gas Data | I2C |
 | **GY-30 (BH1750)** | Ambient Illuminance (Lux) | I2C |
-| **DFRobot MOSFET Power Controller** | Variable Load for MPPT | PWM |
+| **IRLZ44** | Low voltage switching, n-channel MOSFET variable Load for MPPT | PWM |
 | **128x64 SSD1306 OLED** | Real-time Display | I2C |
 | **Micro SD Card Module** | Data Logging Storage | SPI |
 
